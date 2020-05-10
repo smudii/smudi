@@ -1,10 +1,40 @@
-img {
-  width: 200px;
-  border-radius: 150px;
-  height: 400px;
-  margin-left: initial;
-  margin-right: initial;
+#pillu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
 }
+
 body {
-  background-color: chartreuse;
+  background-color: brown;
+}
+p {
+  display: flexbox;
+}
+#kulli {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#juha {
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#kalle {
+  font-size: 20px;
+  color: black;
+  text-align: right;
+  margin-bottom: auto;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
