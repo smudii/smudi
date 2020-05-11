@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: brown;
 }
 p {
   display: flexbox;
@@ -14,7 +14,7 @@ p {
 #kulli {
   font-size: 31px;
   text-align: center;
-  color: black;
+  color: yellowgreen;
   margin-top: auto;
   margin-bottom: auto;
   margin-left: auto;
